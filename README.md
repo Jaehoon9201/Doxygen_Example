@@ -31,3 +31,10 @@
  ![image](https://user-images.githubusercontent.com/71545160/219934273-f5f1e2a0-1d4b-4bfa-839f-769ca2f867ee.png)
 
  ![image](https://user-images.githubusercontent.com/71545160/219934278-8c4cdffe-46e7-4d51-adfe-93bb7ed6a112.png)
+
+
+## If you want to make the different colored documents?
+
+ - **Solution** : Change the color is possible on the 'Topics> Output' tab.
+ 
+ ![image](https://user-images.githubusercontent.com/71545160/219934521-0b511bd0-3318-4425-bb09-260b09c689ee.png)
