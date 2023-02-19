@@ -35,6 +35,6 @@
 
 ## If you want to make the different colored documents?
 
- - **Solution** : Change the color is possible on the 'Topics> Output' tab.
+ - **Solution** : Changing the color is possible on the 'Topics> Output' tab.
  
  ![image](https://user-images.githubusercontent.com/71545160/219934521-0b511bd0-3318-4425-bb09-260b09c689ee.png)
