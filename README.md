@@ -38,3 +38,42 @@
  - **Solution** : Changing the color is possible on the 'Topics> Output' tab.
  
  ![image](https://user-images.githubusercontent.com/71545160/219934521-0b511bd0-3318-4425-bb09-260b09c689ee.png)
+
+
+## Comment rule according to program language
+
+ - Python 
+ 
+```
+## @brief 테스트 데이터를 만드는 클래스
+# @code 코드 설명 시작 지점
+# 	xy = pd.read_csv(test_data_file, index_col=0)
+#   xy = xy.to_numpy()
+#	코드 읽어와서 numpy 형태로 바꾼 후, 인덱싱 및 정규화 해줌.
+# @endcode 
+# @param data_case 사용할 데이터 케이스
+# @param x_mean 데이터 전처리에 사용되는 학습 데이터 전체 평균값 (Standardization)
+# @param x_std  데이터 전처리에 사용되는 학습 데이터 전체 표준편차 (Standardization)
+# @return index로 인덱싱 되는 x, y 데이터 값
+# @see https://en.wikipedia.org/wiki/Feature_scaling
+# @warning 현재 클래스에는 전처리 방법으로 standardization 밖에 구현이 안되어있음.
+```
+
+ - C
+ 
+```
+
+/* lmpar.c -- compute parameter for least squares solution */
+
+```
+
+
+```
+
+/// @brief            levenberg-marquardt algorithm description
+/// ---
+/// @details          main optimization algorithm .Below param description is also represented in the referece site.
+/// @param         m : Number of parameters
+/// @param         n : Number of data
+
+```
